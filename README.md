@@ -1,1 +1,1 @@
-Sources files for smoono.com website.
+Source files for smoono.com website.
